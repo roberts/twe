@@ -1260,9 +1260,9 @@ contract twe is ERC20, Ownable {
  
         previousFee = sellTotalFees;
  
-        marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
+        marketingWallet = address(0xCb62ACA99884f0D38E67f89d06e41A3e0a97Dbe0); // Marketing Funds
         developmentWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Dev Funds (DrewRoberts.eth)
-        communityFundWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Community Funds
+        communityFundWallet = address(0xCb62ACA99884f0D38E67f89d06e41A3e0a97Dbe0); // Community Funds
  
         excludeFromFees(owner(), true);
         excludeFromFees(address(this), true);
