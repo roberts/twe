@@ -10,9 +10,9 @@ Time to trade Memes for the wisdom of Numbers! Discover the power of numerology 
 - Transfer Tax: 0%
 
 ## Links:
-- ✉️ T.me/twentyeightcoin
-- 🌐 twecoin.org
-- 🐣 X.com/TWECoinERC
+- 🌐 [TWECoin.org](https://twecoin.org)
+- ✉️ [T.me/TwentyEightCoin](https://t.me/twentyeightcoin)
+- 🐣 [X.com/TWECoinERC](https://x.com/TWECoinERC)
 
 ## Fair Launch ✅
 
